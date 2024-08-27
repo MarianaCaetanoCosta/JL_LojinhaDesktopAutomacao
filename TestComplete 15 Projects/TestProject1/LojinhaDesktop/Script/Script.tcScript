@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Produto" key="{1805AE7C-34B9-493B-9F7A-815F75697597}" path="Produto.js" />
+	</children>
+</Root>
