@@ -198,18 +198,6 @@
 																	</Property>
 																</Properties>
 															</Child>
-															<Child Name="btnListaProdutos" Key="{8EB03495-BEAC-4972-AA23-8B5ACB483F11}">
-																<Image FileName="-973385494" Left="471" Top="246" Right="593" Bottom="271" />
-																<TypeInfo Item0="{6BE72CD5-0A45-4FDA-8FE9-52C6B597AE7B}" />
-																<Properties>
-																	<Property Name="ClassName">
-																		<Value Value="TButton" />
-																	</Property>
-																	<Property Name="ObjectIdentifier">
-																		<Value Value="btnListaProdutos" />
-																	</Property>
-																</Properties>
-															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -393,7 +381,6 @@
 							<Child Name="edtNovoValorProduto" Owner="{215A4C8C-27B9-49D2-B37B-5B5B5B2FBB98}" />
 							<Child Name="edtNovoCoresProduto" Owner="{CA82F399-B012-4B70-911B-E7BCEEEE8A79}" />
 							<Child Name="btnSalvarProduto" Owner="{8DA2CFE1-31B3-4FF1-980D-017E3E05BEB5}" />
-							<Child Name="btnListaProdutos" Owner="{8EB03495-BEAC-4972-AA23-8B5ACB483F11}" />
 						</Child>
 					</Child>
 				</Child>

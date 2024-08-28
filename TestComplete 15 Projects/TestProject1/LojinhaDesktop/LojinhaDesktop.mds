@@ -8,7 +8,23 @@
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{41E99693-F0FB-439E-A7F7-563096AD5F02}" version="14">
-		<children />
+		<children>
+			<testItem name="Teste de Adição de Produto" key="{99B1AB59-80A4-45C7-8FF6-CF88789C172C}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Testar valor igual a zero para o Produto" key="{5509E41D-0465-4CC7-9DCA-B4AC8D1550B5}" group="False" parallel="False" enabled="True" testMoniker="{1805AE7C-34B9-493B-9F7A-815F75697597}testValidaValorZeroDoProduto" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Testar valor igual a 7000,01 para o Produto" key="{06FC4CC2-1253-4A89-9BFA-F31785582CB9}" group="False" parallel="False" enabled="True" testMoniker="{1805AE7C-34B9-493B-9F7A-815F75697597}testValidaValorSeteMilEUmDoProduto" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{3D982982-1F62-4C29-BA1E-6D58495C9AB3}">
 		<data Version="4">

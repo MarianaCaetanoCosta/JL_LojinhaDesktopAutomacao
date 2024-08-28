@@ -48,6 +48,33 @@
 				<Prp name="relpath" type="S" value="27_08_2024_19_38_20_668\Description.tcLog"/>
 				<Prp name="status" type="I" value="1"/>
 			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.8862519907"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{AD685BD7-DCED-4C98-934C-28F8EFDAF6EC}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [ProdutoTest\testValidaValoresInvalidosDoProduto]"/>
+				<Prp name="relpath" type="S" value="27_08_2024_21_16_12_173\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.8934739699"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{14FFDC7A-7652-4CC4-840A-AC2588EFDA05}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [ProdutoTest\testValidaValorSeteMilEUmDoProduto]"/>
+				<Prp name="relpath" type="S" value="27_08_2024_21_26_36_151\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9106762963"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{72B1B747-7D55-496C-8FC5-1A5510A828D8}"/>
+				<Prp name="nameofroot" type="S" value="LojinhaDesktop"/>
+				<Prp name="relpath" type="S" value="27_08_2024_21_51_22_432\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
