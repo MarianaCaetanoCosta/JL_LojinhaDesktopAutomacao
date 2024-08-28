@@ -6,7 +6,7 @@ var FormularioPrincipalTela = require("FormularioPrincipalTela");
 
 function testValidaValorZeroDoProduto(){
   LoginTela.abrirLojinha();
-  ListaProdutosTela.login("admin", "admin");
+  LoginTela.login("admin", "admin");
   NovoProdutoTela.abrirNovoProduto();
   NovoProdutoTela.submeterNovoProdutoComErro("Macbook", "000", "preto, vermelho");
   MensagemTela.validarMensagemErro();
@@ -16,9 +16,9 @@ function testValidaValorZeroDoProduto(){
 
 function testValidaValorSeteMilEUmDoProduto(){
   LoginTela.abrirLojinha();
-  ListaProdutosTela.login("admin", "admin");
+  LoginTela.login("admin", "admin");
   NovoProdutoTela.abrirNovoProduto();
-  NovoProdutoTela.submeterNovoProdutoComErro("Macbook", "000", "preto, vermelho");
+  NovoProdutoTela.submeterNovoProdutoComErro("Macbook", "700001", "preto, vermelho");
   MensagemTela.validarMensagemErro();
   MensagemTela.fecharMensagemErro();
   FormularioPrincipalTela.fecharLojinha();

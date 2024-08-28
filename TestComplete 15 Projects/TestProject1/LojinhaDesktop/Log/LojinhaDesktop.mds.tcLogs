@@ -75,6 +75,78 @@
 				<Prp name="relpath" type="S" value="27_08_2024_21_51_22_432\Description.tcLog"/>
 				<Prp name="status" type="I" value="2"/>
 			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9477132292"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7B83129E-6877-4F6B-B538-51768236BA30}"/>
+				<Prp name="nameofroot" type="S" value="LojinhaDesktop"/>
+				<Prp name="relpath" type="S" value="27_08_2024_22_44_42_424\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9764505208"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{327DD21A-A7C1-445C-A599-A90A34F0D261}"/>
+				<Prp name="nameofroot" type="S" value="LojinhaDesktop"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_26_05_325\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9772382523"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{37D948C9-D9FD-4678-A9BE-1D9E8EF16B79}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [ProdutoTest\testValidaValorZeroDoProduto]"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_27_13_385\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0009">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.979185544"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F6CB8F15-A1B9-4554-ABF9-401E2BF331D9}"/>
+				<Prp name="nameofroot" type="S" value="LojinhaDesktop"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_30_01_631\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0010">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9800681134"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{4685F873-3983-415D-BDDA-1A3B92FEE8FB}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [ProdutoTest\testValidaValorSeteMilEUmDoProduto]"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_31_17_885\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0011">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9805634954"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{1C8A38A2-76C6-44E3-A9A8-F8B30D7D7BBD}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [ProdutoTest\testValidaValorZeroDoProduto]"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_32_00_686\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0012">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9809420023"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7B46DDDA-CB56-4585-A6F4-2FFC60565AD8}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [ProdutoTest\testValidaValorSeteMilEUmDoProduto]"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_32_33_389\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0013">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45531.9853251389"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F3C15B12-B8AC-4456-8D74-77821E4AC1E3}"/>
+				<Prp name="nameofroot" type="S" value="LojinhaDesktop"/>
+				<Prp name="relpath" type="S" value="27_08_2024_23_38_52_92\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
