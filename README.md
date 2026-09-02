@@ -1,10 +1,8 @@
 # Lojinha Desktop Automacao
 
-**Lojinha Desktop – Automação de Testes com TestComplete**
-
 Neste projeto, realizei testes no aplicativo **Lojinha Desktop**, iniciando com a execução de um checklist de validação para aplicações desktop. Em seguida, implementei testes automatizados utilizando a ferramenta **TestComplete**.
 
-**Cheklist de Testes Desktop**
+## Cheklist de Testes Desktop
 - Regra de negócio
 - Listagem de zero, um ou muitos registros
 - Funcionalidades voltadas a licenciamento
@@ -18,6 +16,8 @@ Neste projeto, realizei testes no aplicativo **Lojinha Desktop**, iniciando com 
 - Ordenação do foco do cursor nos campos
 - Ausência de conexão com a internet
 
+## Imagens
+
 <img width="773" height="489" alt="image" src="https://github.com/user-attachments/assets/02af4657-c150-4355-9dd9-c0c778b28e06" />
 
 <img width="773" height="488" alt="image" src="https://github.com/user-attachments/assets/0c422e13-a15b-422a-ad31-a47e6295f821" />
@@ -28,6 +28,5 @@ Neste projeto, realizei testes no aplicativo **Lojinha Desktop**, iniciando com 
 
 <img width="768" height="485" alt="image" src="https://github.com/user-attachments/assets/ff8ab331-9536-41e7-a26b-7630bc6f8b02" />
 
-# Apresentação
+## 🎥 Apresentação
 https://github.com/user-attachments/assets/9387b1be-1316-4b44-b682-5691549b1bf9
-
