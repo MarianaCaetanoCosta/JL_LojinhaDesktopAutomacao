@@ -30,3 +30,14 @@ Neste projeto, realizei testes no aplicativo **Lojinha Desktop**, iniciando com 
 
 ## 🎥 Apresentação
 https://github.com/user-attachments/assets/9387b1be-1316-4b44-b682-5691549b1bf9
+
+
+# 👩‍💻 Sobre o projeto
+
+Projeto desenvolvido como parte do meu portfólio de **Qualidade de Software e Automação de Testes**, com foco na aplicação prática do Apache JMeter para criação e execução de testes de desempenho.
+
+O projeto demonstra desde a **gravação das requisições e configuração do ambiente** até a **parametrização dos dados, execução de diferentes tipos de testes e análise dos resultados**.
+
+---
+
+⭐ **Projeto desenvolvido para estudos e demonstração de conhecimentos em testes de desempenho e automação com Apache JMeter.**
